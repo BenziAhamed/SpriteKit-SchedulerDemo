@@ -16,3 +16,5 @@ A scheduler for Sprite Kit that allows you to write code like:
       .perform( self=>GameScene.createRandomSprite ) // randomly place a sprite on the scene
       .end()
 ```
+
+**PS** Project was created in XCode 6.3 with Swift 1.2
